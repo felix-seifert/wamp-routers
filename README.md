@@ -7,4 +7,5 @@ In the article [Web Application Messaging Protocol](https://blog.felix-seifert.c
 The repository [wamp-clients](https://github.com/felix-seifert/wamp-clients) shows how to implement clients using different libraries.
 
 Till now, this repository includes following examples:
-* wamp2spring (router without procedures and publications)
+* [wamp2spring-routeronly](https://github.com/felix-seifert/wamp-routers/tree/master/wamp2spring-routeronly) (router without procedures and publications)
+* [wamp2spring-pubsub-rpc](https://github.com/felix-seifert/wamp-routers/tree/master/wamp2spring-pubsub-rpc) (registering a procedure and publishing on a topic)
